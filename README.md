@@ -6,4 +6,4 @@ So, I don't have much experience yet. \
 please help me a lot!
 
 ## career
-- [lim](https://github.com/clasantialo/lim)
+- [lim](https://github.com/clasantialo/lim) - mincraft server agent
