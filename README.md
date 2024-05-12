@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=76D4F7&random=true&width=435&lines=Clasantialo;I+usually+use+python;The+most+cutest+Developer;I'm+Middle+school+student;That's+all+about+me)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Python-CCDBDC.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
-[![clasantialo's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasantialo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasantialo&show_icons=true&theme=radical)
 
 
 # clasantialo
