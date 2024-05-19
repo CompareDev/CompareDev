@@ -5,7 +5,7 @@
 여러분들의 도움 하나하나가 저에게는 너무나 큰 힘이 됩니다!
 
 ## Career
-- [lim](https://github.com/clasantialo/lim) - 마인크래프트 서버 에이전트 - 2024~
+- [lim](https://github.com/clasantialo/lim) 마인크래프트 서버 에이전트 (2024~)
 
-## Stats
+## S)tats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasantialo)
