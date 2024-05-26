@@ -1,4 +1,4 @@
-# Clasantialo
+# Pageofmylife
 안녕하세요! \
 저는 대한민국의 개발자입니다. \
 아직 배우지 못한 게 너무나 많습니다. \
@@ -8,4 +8,4 @@
 - [lim](https://github.com/clasantialo/lim) 마인크래프트 서버 에이전트 (2024~)
 
 ## S)\tats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasantialo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pageofmylife)
