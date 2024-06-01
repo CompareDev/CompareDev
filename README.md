@@ -1,8 +1,8 @@
 # Pageofmylife
-뷁
-
-## Career
-- [lim](https://github.com/clasantialo/lim) 마인크래프트 서버 에이전트 (2024~)
+## Works
+- [lim](https://github.com/pageofmylife/lim) Minecraft server agent (2024)
+- [depresser](https://github.com/pageofmylife/depresser) (Un)zipper (with unique compression codec) (2024)
+- [imaginary](https://github.com/pageofmylife/imaginary) refactored imaginary. (2024)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pageofmylife)
