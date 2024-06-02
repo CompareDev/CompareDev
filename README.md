@@ -7,4 +7,4 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pageofmylife)
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=pageofmylife&show_icons=true&theme=tokyonight&layout=compact)
