@@ -20,4 +20,6 @@
 ![pageofmylife](https://github-readme-stats.vercel.app/api/top-langs?username=pageofmylife&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Social
-- Discord : <a href="https://discord.com/users/1051121269355073588">@burd_tree</a>
+- Discord : <a href="https://discord.com/users/1051121269355073588">burd_tree</a>
+- Reddit : <a href="https://www.reddit.com/user/pageofmylife/">u/pageofmylife</a>
+- X (Twitter) : <a href="https://x.com/pageofmylife09">pageofmylife09</a>
