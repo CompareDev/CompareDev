@@ -1,4 +1,4 @@
-# Pageofmylife
+# PageofMylife
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&size=25&pause=1000&random=false&width=435&lines=Page+of+my+life;Touch+some+grass;I+want+to+make+good+pfp)](https://git.io/typing-svg)
 
 ## Stacks
