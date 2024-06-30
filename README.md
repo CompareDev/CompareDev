@@ -9,13 +9,6 @@
 
 - OS : <img src="https://img.shields.io/badge/Windows-black?style=flat&logo=Windows&logoColor=0078D4"/>
 
-## Works
-- [lim](https://github.com/aeirst/lim) : Minecraft server agent (2024)
-- [depresser](https://github.com/aeirst/depresser) : (Un)zipper (with unique compression codec) (2024)
-- [imaginary](https://github.com/aeirst/imaginary) : refactored imaginary. (2024)
-- [crispy](https://github.com/aeirst/crispy) : i dont even know about this repo (maybe rust project) (2024)
-- [Poml](https://github.com/aeirst/poml) : ??? (2024)
-
 ## Stats
 ![pageofmylife](https://github-readme-stats.vercel.app/api?username=aeirst)
 ![pageofmylife](https://github-readme-stats.vercel.app/api/top-langs?username=aeirst&show_icons=true&theme=tokyonight&layout=compact)
